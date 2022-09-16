@@ -1,0 +1,42 @@
+# X='prallin'
+# print(X,type(X))
+# print(X[0])
+# print(X[1])
+# print(X[2])
+# print(X[3])
+# print(X[4])
+# print(X[5])
+# print(X[6])
+
+# G='English'
+# print(G,type(G))
+# print(G[0:])
+# print(G[1:5])
+# print(G[2:4])
+# print(G[:3])
+# print(G[4:2])
+# print(G[5])
+
+# print(G[-5])
+# print(G[-3])
+# print(G[-2])
+# print(G[-7])
+# print(G[-4])
+# print(G[-6])
+# print(G[-1])
+
+# print(G[-5]+G[-1])
+# print(G[-0]+G[-4])
+# print(G[-7]+G[-2])
+
+"""program to find the sum of the first and last digit"""
+# C='15732954322344'
+# print(type(C))
+# print(C[5])
+# print(C[-3])
+# print(C[5]+C[6])
+# print(int(C[5])+int(C[-4]))
+# print(int(C[-2])+int(C[-2]))
+
+
+
